@@ -1,0 +1,35 @@
+_repo: Short-Story-Writing-An-Art-or-a-Trade_66600
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fagin, N. Bryllion (Nathan Bryllion)
+    alias: Fagin, Nathan Bryllion
+    birthdate: 1892
+    deathdate: 1971
+    gutenberg_agent_id: '53878'
+    url: http://www.gutenberg.org/2009/agents/53878
+description: ''
+gutenberg_issued: '2021-10-23'
+identifiers:
+  gutenberg: '66600'
+  lccn: '23016321'
+language: en
+pgterms:marc904: https://archive.org/details/shortstorywritin00fagi/page/n7/mode/2up
+pgterms:marc905: 20201024220527fagin
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Charlene Taylor, Eleni Christofaki and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :Thomas Seltzer, Inc.,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short story'
+- !lcc 'PN'
+- GITenberg
+tableOfContents: Overture -- Action -- "O. Henryism" -- The moving pictures -- Verboten
+  -- The artificial ending -- Form and substance -- Finale -- Effect.
+title: 'Short Story-Writing: An Art or a Trade?'
+url: http://www.gutenberg.org/ebooks/66600
